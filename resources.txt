@@ -14,3 +14,5 @@ branch name was master.
 
 I feel like I might actually be getting this stuff
 down. 
+
+Understanding check...
