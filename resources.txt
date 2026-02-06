@@ -1,0 +1,13 @@
+I'm supposed to add three things that I learned this 
+week. It can be a tool, a link, or a concept.
+First thing I'm going to add is a concept. Even
+though we went through a lot of step during the 
+tutorial, the daily workflow is only 4 steps. Make
+a change, git add file name the change was made in,
+commit it, and then push it. I also found out that
+no matter what, if files get deleted, GitHub stores
+the files in the cloud. The third thing I'm going
+to add is Gemini. I redid the tutorial mutiple times
+not understanding what I was doing wrong, well the
+tutorial kept telling me to enter main, however me
+branch name was master.
