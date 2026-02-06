@@ -11,3 +11,6 @@ to add is Gemini. I redid the tutorial mutiple times
 not understanding what I was doing wrong, well the
 tutorial kept telling me to enter main, however me
 branch name was master.
+
+I feel like I might actually be getting this stuff
+down. 
